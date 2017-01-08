@@ -1,7 +1,7 @@
 {
-  "name": "angular-quickstart",
+  "name": "gigger-ng",
   "version": "1.0.0",
-  "description": "QuickStart package.json from the documentation, supplemented with testing support",
+  "description": "Gigger booking web app built in Angular2",
   "scripts": {
     "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
     "e2e": "tsc && concurrently \"http-server -s\" \"protractor protractor.config.js\" --kill-others --success first",
